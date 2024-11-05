@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+[![deabraha's 42 stats](https://badge.mediaplus.ma/darkblue/deabraha)](https://github.com/oakoudad/badge42)
+
+
+📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/debora-furlan-9b1398ab)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deabraha@student.42sp.org.br)
 
 <!--
 **dabrafur/dabrafur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
