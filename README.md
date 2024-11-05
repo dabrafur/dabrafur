@@ -2,6 +2,10 @@
 
 [![deabraha's 42 stats](https://badge.mediaplus.ma/darkblue/deabraha)](https://github.com/oakoudad/badge42)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabrafur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabrafur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📫 How to reach me
 
@@ -22,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=dabrafur)
