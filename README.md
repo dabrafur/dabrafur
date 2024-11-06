@@ -1,30 +1,44 @@
-# Hello, world 🧑‍🚀
+<h1 align="center">Hello World! 🧑‍🚀</h1>
 
-[![deabraha's 42 stats](https://badge.mediaplus.ma/darkblue/deabraha)](https://github.com/oakoudad/badge42)
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabrafur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 42_id -->
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/deabraha" alt="deabraha's 42 stats" width="400" height="300" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabrafur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
+<!-- stats and languages 
+themes: radical, one dark, vue dark, algolia, darcula, ayu mirage, calm -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dabrafur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=calm&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dabrafur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+</div>
 
+###
+---
+<h5 align="center">📫 How to reach me</h5>
 
-📫 How to reach me
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-furlan-9b1398ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deabraha@student.42sp.org.br)
+<div align="center">
+  <a href="https://www.linkedin.com/in/debora-furlan-9b1398ab/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="deabraha@student.42sp.org.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="20" height="20" alt="slack logo"  />
+  </a>
+  <a href="deabraha@student.42sp.org.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="20" alt="gmail logo"  />
+  </a>
+</div>
 
-<!--
-**dabrafur/dabrafur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+---
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dabrafur.dabrafur&left_color=lightcoral&right_color=darkslategray"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=dabrafur)
+###
